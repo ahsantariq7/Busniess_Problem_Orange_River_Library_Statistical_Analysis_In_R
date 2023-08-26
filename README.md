@@ -32,4 +32,11 @@ Task 5 (8 points)
 
 The third business problem is to provide a range of predictions for expenses of the library based on the new features given. Build a Bayesian linear model to address this final question. The information provided in the business problem does not completely match the data given, so when building your model, be sure to use only variables that can be used for the prediction. If you use priors that are not the default priors, justify your choice of priors.
 
+
+
+https://github.com/ahsantariq7/Busniess_Problem_Orange_River_Library_Statistical_Analysis_In_R/assets/109543910/aeafe49a-e52a-4d3f-b778-f75154f4a7b1
+
+
+
+
 Write a section of the technical report that describes the model being used and provides and interprets the output that answers the business problem.
